@@ -14,7 +14,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('./../../ee'))
+sys.path.insert(0, os.path.abspath('./../ee'))
 import sphinx_rtd_theme
 
 
