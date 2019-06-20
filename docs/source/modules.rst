@@ -1,7 +1,7 @@
-ee
-==
+sensormotion
+============
 
 .. toctree::
    :maxdepth: 4
 
-   ee
+   sensormotion
