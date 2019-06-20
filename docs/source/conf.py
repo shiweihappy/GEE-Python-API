@@ -24,6 +24,11 @@ author = 'LSW'
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 
+# source_suffix = ['.rst', '.md']
+source_suffix = '.rst'
+
+# The master toctree document.
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
