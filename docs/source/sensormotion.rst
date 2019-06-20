@@ -4,58 +4,18 @@ sensormotion package
 Submodules
 ----------
 
-sensormotion.gait module
-------------------------
-
-.. automodule:: sensormotion.gait
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-sensormotion.pa module
+sensormotion.ta module
 ----------------------
 
-.. automodule:: sensormotion.pa
+.. automodule:: sensormotion.ta
    :members:
    :undoc-members:
    :show-inheritance:
 
-sensormotion.peak module
-------------------------
+sensormotion.tb module
+----------------------
 
-.. automodule:: sensormotion.peak
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-sensormotion.plot module
-------------------------
-
-.. automodule:: sensormotion.plot
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-sensormotion.signal module
---------------------------
-
-.. automodule:: sensormotion.signal
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-sensormotion.utils module
--------------------------
-
-.. automodule:: sensormotion.utils
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-sensormotion.version module
----------------------------
-
-.. automodule:: sensormotion.version
+.. automodule:: sensormotion.tb
    :members:
    :undoc-members:
    :show-inheritance:
